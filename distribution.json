@@ -462,7 +462,7 @@
           "type": "Library",
           "artifact": {
             "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/OptiFine_1.16.5_HD_U_G8.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/OptiFine_1.16.5_HD_U_G8.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
@@ -472,7 +472,7 @@
           "type": "Library",
           "artifact": {
             "size": 10745,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/lightfall-client-1d4473d.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/lightfall-client-1d4473d.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
@@ -482,7 +482,7 @@
           "type": "Library",
           "artifact": {
             "size": 1485777,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/sophisticatedbackpacks.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/sophisticatedbackpacks.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
@@ -492,7 +492,7 @@
           "type": "Library",
           "artifact": {
             "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/fantasyfurniture-1.16.5-2.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/fantasyfurniture-1.16.5-2.0.2.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
