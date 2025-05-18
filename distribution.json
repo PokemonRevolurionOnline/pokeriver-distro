@@ -362,7 +362,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3526641,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/armourersworkshop-forge-1.16.5-2.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/armourersworkshop-forge-1.16.5-2.1.4.jar",
             "MD5": "138a6ea87084ba54884294701e509f61"
           }
         },
@@ -372,7 +372,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 13027,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/chunksending-1.16.5-2.5.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/chunksending-1.16.5-2.5.jar",
             "MD5": "dd9dafc89a6793ae6ef59116078e4162"
           }
         },
@@ -382,7 +382,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188469,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/CocoaInput-1.16.5-forge-4.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/CocoaInput-1.16.5-forge-4.0.4.jar",
             "MD5": "ed7d070d481b0270a3c42e59548ba0ca"
           }
         },
@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 15541935,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/CustomNPCs-1.16.5-0629.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "7a0ad26374f5721f2d3cab756c5017d1"
           }
         },
@@ -402,7 +402,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2538877,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/DareHaruDareHaru-0.45.0-final.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/DareHaruDareHaru-0.45.0-final.jar",
             "MD5": "26c2de4a80165914e894248589b0bbdf"
           }
         },
@@ -412,7 +412,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 295012,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/Decoration_Delight_1.16.5-1.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/Decoration_Delight_1.16.5-1.0.2.jar",
             "MD5": "d471fa035b82fe9ff06a3fd6384fe0df"
           }
         },
@@ -422,7 +422,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2565217,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/FarmersDelight-1.16.5-0.6.0.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/FarmersDelight-1.16.5-0.6.0.jar",
             "MD5": "9614adb0fe0607d00fad43b773b5434c"
           }
         },
@@ -432,68 +432,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47620,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/Frozen_Delight_1.1.2_Forge_1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/frozen-delight-1.1.3-forge-1.16.5.jarr",
             "MD5": "a6d4c44870c05a7314b124bc232f93b6"
-          }
-        },
-        {
-          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.0@jar",
-          "name": "Macaw's Doors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 992824,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-doors-1.1.0forge-mc1.16.5.jar",
-            "MD5": "112506716cc188519c4a33bf2c4da6d0"
-          }
-        },
-        {
-          "id": "com.mcwfences.kikoz:mcwfences:1.0.7@jar",
-          "name": "Macaw's Fences and Walls",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 294223,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-fences-1.0.7-mc1.16.5forge%20(2).jar",
-            "MD5": "fddb089b091b67d4b9e23f9741988a1c"
-          }
-        },
-        {
-          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.2.0@jar",
-          "name": "Macaw's Furniture",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1383691,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-furniture-3.2.0-mc1.16.5forge.jar",
-            "MD5": "0d7ad1afb0c7ea95012c03a94461e978"
-          }
-        },
-        {
-          "id": "com.mcwpaths.kikoz:mcwpaths:1.0.3@jar",
-          "name": "Macaw's Paths and Pavings",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 249277,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-paths-1.0.3forge-mc1.16.5.jar",
-            "MD5": "c3c1bf62a99b11cf4559eec377477035"
-          }
-        },
-        {
-          "id": "com.mcwroofs.kikoz:mcwroofs:2.2.4@jar",
-          "name": "Macaw's Roofs",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1604976,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-roofs-2.2.4-mc1.16.5forge.jar",
-            "MD5": "1333ad44361748aadc69bc82dc215907"
-          }
-        },
-        {
-          "id": "com.mcwwindows.kikoz:mcwwindows:2.2.0@jar",
-          "name": "Macaw's Windows",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1024374,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/mcw-windows-2.2.0-mc1.16.5forge.jar",
-            "MD5": "c4ba595171af44eb963300e297f6add7"
           }
         },
         {
@@ -502,7 +442,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 839446,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/jei-1.16.5-7.8.0.1009.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/jei-1.16.5-7.8.0.1009.jar",
             "MD5": "6c7827e443f483cc5e94aaff7c694901"
           }
         },
@@ -512,7 +452,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6694200,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/journeymap-1.16.5-5.8.6.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/journeymap-1.16.5-5.8.6(1).jar",
             "MD5": "60fc57f5aace9a4c92896f4ced0c60f0"
           }
         },
@@ -522,28 +462,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4137547,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/ratingresource-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/ratingresource-1.0.0.jar",
             "MD5": "b96037151b85bbaecce85779c8b4483e"
-          }
-        },
-        {
-          "id": "info.u_team.u_team_core:uteamcore:3.2.1.258@jar",
-          "name": "U Team Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 398201,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/u_team_core-1.16.5-3.2.1.258.jar",
-            "MD5": "95d960974f901c851e73c6763b42efd5"
-          }
-        },
-        {
-          "id": "info.u_team.useful_backpacks:usefulbackpacks:1.12.1.103@jar",
-          "name": "Useful Backpacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 167996,
-            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/forgemods/required/useful_backpacks-1.16.5-1.12.1.103.jar",
-            "MD5": "b6d5dde03d67b89a10235436359e8b75"
           }
         },
         {
@@ -557,6 +477,36 @@
           }
         },
         {
+          "id": "generated.library:lightfall-client@jar",
+          "name": "lightfall-client",
+          "type": "Library",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/lightfall-client-1d4473d.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          }
+        },
+        {
+          "id": "generated.library:sophisticatedbackpacks@jar",
+          "name": "sophisticatedbackpacks",
+          "type": "Library",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/sophisticatedbackpacks-1.16.5-3.15.20.755.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          }
+        },
+        {
+          "id": "generated.library:fantasyfurniture@jar",
+          "name": "fantasyfurniture",
+          "type": "Library",
+          "artifact": {
+            "size": 6046996,
+            "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/libraries/fantasyfurniture-1.16.5-2.0.2.jar",
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
@@ -564,17 +514,6 @@
             "size": 4098,
             "url": "https://raw.githubusercontent.com/Skockwave/pokeriver-distro/main/servers/pokeriver-1.16.5/files/options.txt",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "PokeRiver.zip",
-          "name": "PokeRiver.zip",
-          "type": "File",
-          "artifact": {
-            "size": 467770418,
-            "url": "https://www.dropbox.com/scl/fi/rg2zatqs1yuj97exnodmx/POkERIVER.zip?rlkey=a6jnubl0vugq76mgudtja4p0x&st=dqxpovbd&dl=1",
-            "MD5": "216e64ef03ed86c407380d0e37db9e29",
-            "path": "resourcepacks/PokeRiver.zip"
           }
         },
         {
@@ -597,17 +536,6 @@
             "url": "https://www.dropbox.com/scl/fi/pukk5l1pdg2iwg0g1hbw5/Pixelmon-1.16.5-9.1.13-universal.jar?rlkey=q73laqrpxjj4ow6ej7lijh9yx&st=wagp0d48&dl=1",
             "MD5": "06b20e29c4459836ddba2508f43811e1",
             "path": "mods/pixelmon9.1.13.jar"
-          }
-        },
-        {
-          "id": "lightfall-client-1d4473d.jar",
-          "name": "lightfall",
-          "type": "File",
-          "artifact": {
-            "size": 426052437,
-            "url": "https://www.dropbox.com/scl/fi/zx83fwfsctgg1umkfu4bm/lightfall-client-1d4473d.jar?rlkey=8bu9ajp790vnrxtgumk68hui7&st=3fo8ear6&dl=1",
-            "MD5": "06b20e29c4459836ddba2508f43811e1",
-            "path": "mods/lightfall-client-1d4473d.jar"
           }
         }
       ]
